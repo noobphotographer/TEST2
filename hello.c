@@ -3,8 +3,7 @@
 int main()
 {
   
-  printf("Hello");
-  printf("Swapnil");
+  printf("Hello World");
   
   return 0;
 }
